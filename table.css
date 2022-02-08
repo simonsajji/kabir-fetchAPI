@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table, td, th{
+    margin:3rem;
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:1rem;
+    border-radius: 0.5rem;
+}
